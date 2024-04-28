@@ -8,7 +8,7 @@
 Unlike most of the traditional RPG games, the map in Oath is infinite. The map can be viewed as a straight line extending indefinitely to the left and right. So no matter which direction (left or right) the player chooses to go, the map always extends to infinity. This infinite map ensures that the player has a high degree of freedom and also provides plenty of room to fight.
 > picture 1 for infinite map
 ### Randomness
-
+Randomness is a key feature for Oath. 
 ### Various Items and Combinations
 
 ## Game Instruction
