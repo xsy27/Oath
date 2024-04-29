@@ -28,7 +28,7 @@ With the source code of Oath, the player can directly run the game starting from
 Or click "Build And Run" (Ctrl+B) under "File".
 > 5: Build And Run
 
-Or export the game by clicking "File"->"Build Settings"->"Build"->"Clean Build".
+Or export the game by clicking "File"->"Build Settings"->"Build"->"Clean Build", and then run the Oath.exe file.
 > 6: Clean Build
 
 ### Start the Game
