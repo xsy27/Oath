@@ -84,3 +84,5 @@ Although the game now has a lot of basic features, it is still in development, a
 * Add multiplayer mode.
 * Add different difficulty modes.
 * Add partners that will be involved in the fights and stories along with the characters.
+
+<img width="1280" alt="16" src="https://github.com/xsy27/Oath/assets/99967861/1aa88924-76b8-4202-8b70-69ab80bc7d62">
