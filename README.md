@@ -72,3 +72,5 @@ Click "Results" to view the statistics of this round of game.
 Click "Quit" to go back to the main menu.
 
 ## Game Future
+Although the game now has a lot of basic features, it is still in development, and there is much that can be improved. In the future, we plan to improve Oath in many aspects
+* Add
