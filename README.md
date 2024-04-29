@@ -53,18 +53,18 @@ Enemies are spawned in waves, and each wave lasts for 1 minute. There will be a 
 The game ends when the player successfully survives for five minutes or the character's HP goes to zero.
 > 10: On starting the game
 
-Press "E" or click the button in the lower right corner to open the backpack and view the character's current statistics, the abilities' levels, the passive items acquired, and the levels of the passive items.
+Press "E" or click the button in the lower right corner to open the backpack and view the character's current statistics, the abilities' levels, the passive items acquired, and the levels of the passive items. <br>
 Press "E" again or click the cross button to close the backpack.
 > 11: Backpack
 
-Press "Space" to pause the game.
+Press "Space" to pause the game. <br>
 Press "Space" again or click the "Resume" button to resume the game.
 > 12: Pause Screen
 
 The player can view the instructions again on the paused screen.
 > 13: Instructions on the Paused Screen
 
-Click "Resume" if the player wants to resume the game.
+Click "Resume" if the player wants to resume the game. <br>
 Click "Quit" if the player wants to go back to the main menu.
 
 A Game Over screen will be shown when the game ends.
