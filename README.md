@@ -11,7 +11,7 @@ Unlike most of the traditional RPG games, the map in Oath is infinite. The map c
 ![image](/images/1.png)
 
 ### Randomness
-Randomness is a key feature of Oath. In each map slice, the constructions are different. And there is a probability of generating a treasure box in each map slice. When the player opens the treasure box, there is also a probability of getting a positive effect (e.g., recovering health) or a negative effect (e.g., taking damage). Therefore, as the player progresses, the map they encounter is always different, which greatly avoids aethetic fatigue and getting lost. When the player gains enough experience from defeating enemies, it is given a chance to get a new passive item or upgrade one of its abilities or passive items. The player can choose from three choices, and the three choices are given at random.
+Randomness is a key feature of Oath. In each map slice, the constructions are different. And there is a probability of generating a treasure box in each map slice. When the player opens the treasure box, there will also be a probability of getting a positive effect (e.g., recovering health) or a negative effect (e.g., taking damage). Therefore, as the player progresses, the map they encounter is always different, which greatly avoids aethetic fatigue and getting lost. When the player gains enough experience from defeating enemies, it will be given a chance to get a new passive item or upgrade one of its abilities or passive items. The player can choose from three choices, and the three choices are given at random.
 > 2: level up
 
 ### Various Combinations
@@ -50,13 +50,15 @@ On starting the game, the player should be able to see the character in the cent
 Use WASD to walk around. The abilities are triggered automatically. <br>
 The timer right in the middle of the top shows the time elapsed. The panel below shows the current level, the HP, the experience gained, and a button used to open the backpack. <br>
 Enemies are spawned in waves, and each wave lasts for 1 minute. There will be a boss in the third and fifth waves, respectively. <br>
-The game ends when the player successfully survives for five minutes or the character's HP goes to zero.
+The game will end when the player successfully survives for five minutes or the character's HP goes to zero.
 > 10: On starting the game
 
+#### Backpack
 Press "E" or click the button in the lower right corner to open the backpack and view the character's current statistics, the abilities' levels, the passive items acquired, and the levels of the passive items. <br>
 Press "E" again or click the cross button to close the backpack.
 > 11: Backpack
 
+#### Pause
 Press "Space" to pause the game. <br>
 Press "Space" again or click the "Resume" button to resume the game.
 > 12: Pause Screen
@@ -67,11 +69,16 @@ The player can view the instructions again on the paused screen.
 Click "Resume" if the player wants to resume the game. <br>
 Click "Quit" if the player wants to go back to the main menu.
 
+#### Level Up
+When the character gains enough experience, a level up screen will be poped out and the player can choose one of the three given abilities/passive items to upgrade.
+> 14: Level Up
+
+#### Game Over
 A Game Over screen will be shown when the game ends.
-> 14: Game Over
+> 15: Game Over
 
 Click "Results" to view the statistics of this round of game.
-> 15: Results
+> 16: Results
 
 Click "Quit" to go back to the main menu.
 
