@@ -10,7 +10,7 @@ Unlike most of the traditional RPG games, the map in Oath is infinite. The map c
 ![image](/images/1.png)
 
 ### Randomness
-Randomness is a key feature of Oath. In each map slice, the constructions are different. And there is a probability of generating a treasure box in each map slice. When the player opens the treasure box, there will also be a probability of getting a positive effect (e.g., recovering health) or a negative effect (e.g., taking damage). Therefore, as the player progresses, the map they encounter is always different, which greatly avoids aethetic fatigue and getting lost. When the player gains enough experience from defeating enemies, it will be given a chance to get a new passive item or upgrade one of its abilities or passive items. The player can choose from three choices, and the three choices are given at random.
+Randomness is a key feature of Oath. In each map slice, the constructions are different. And there is a probability of generating a treasure box in each map slice. When the player opens the treasure box, there will also be a probability of getting a positive effect (e.g., recovering health) or a negative effect (e.g., taking damage). Therefore, as the player progresses, the map it encounter is always different, which greatly avoids aethetic fatigue and getting lost. When the player gains enough experience from defeating enemies, it will be given a chance to get a new passive item or upgrade one of its abilities or passive items. The player can choose from three choices, and the three choices are given at random.
 ![image](/images/2.png)
 
 ### Various Combinations
@@ -72,5 +72,15 @@ Click "Results" to view the statistics of this round of game.
 Click "Quit" to go back to the main menu.
 
 ## Game Future
-Although the game now has a lot of basic features, it is still in development, and there is much that can be improved. In the future, we plan to improve Oath in many aspects
-* Add
+Although the game now has a lot of basic features, it is still in development, and there is much that can be improved. In the future, we plan to improve Oath in many aspects:
+* Add more characters with different stories and abilities.
+* Add maps with different features.
+* Add more passive items that have good linkage effects with the abilities.
+* Add more kinds of enemies and bosses.
+* Add a handbook to the main menu where the player can check the detailed descriptions of the characters, the characters' abilities, the passive items, the enemies, and the maps.
+* Add a shop at the main menu where the player can buy permanent positive effects (e.g., increased initial max health) using coins collected from defeated enemies in the game.
+* Add a system that upgrades abilities to ultimate abilities under specific circumstances (e.g., acquire some specific passive item).
+* Add conversations between the character and the bosses to make the storyline clear.
+* Add multiplayer mode.
+* Add different difficulty modes.
+* Add partners that will be involved in the fights and stories along with the characters.
