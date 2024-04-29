@@ -8,7 +8,7 @@
 
 ### Infinte Map
 Unlike most of the traditional RPG games, the map in Oath is infinite. The map can be viewed as a straight line extending indefinitely to the left and right. So no matter which direction (left or right) the player chooses to go, the map always extends to infinity. This infinite map ensures that the player has a high degree of freedom and also provides plenty of room to fight.
-![image](https://github.com/xsy27/Oath/assets/99967861/5f90d0e0-693d-4b8b-9c8b-9f6cee12b0c0)
+![image](/images/1.png)
 
 ### Randomness
 Randomness is a key feature of Oath. In each map slice, the constructions are different. And there is a probability of generating a treasure box in each map slice. When the player opens the treasure box, there is also a probability of getting a positive effect (e.g., recovering health) or a negative effect (e.g., taking damage). Therefore, as the player progresses, the map they encounter is always different, which greatly avoids aethetic fatigue and getting lost. When the player gains enough experience from defeating enemies, it is given a chance to get a new passive item or upgrade one of its abilities or passive items. The player can choose from three choices, and the three choices are given at random.
